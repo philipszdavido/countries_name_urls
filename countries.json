@@ -65,7 +65,7 @@
   {
     "code": "CD",
     "name": "Congo, Democratic Republic of the",
-    "url": "/congo_democratic_republic_of_the"
+    "url": "/congo"
   },
   {
     "code": "CF",
@@ -74,7 +74,7 @@
   },
   { "code": "CG", "name": "Congo", "url": "/congo" },
   { "code": "CH", "name": "Switzerland", "url": "/switzerland" },
-  { "code": "CI", "name": "Côte d'Ivoire", "url": "/côte_d_ivoire" },
+  { "code": "CI", "name": "Côte d'Ivoire", "url": "/cote_d_ivoire" },
   { "code": "CK", "name": "Cook Islands", "url": "/cook_islands" },
   { "code": "CL", "name": "Chile", "url": "/chile" },
   { "code": "CM", "name": "Cameroon", "url": "/cameroon" },
@@ -83,7 +83,7 @@
   { "code": "CR", "name": "Costa Rica", "url": "/costa_rica" },
   { "code": "CU", "name": "Cuba", "url": "/cuba" },
   { "code": "CV", "name": "Cabo Verde", "url": "/cabo_verde" },
-  { "code": "CW", "name": "Curaçao", "url": "/curaçao" },
+  { "code": "CW", "name": "Curaçao", "url": "/curacao" },
   { "code": "CX", "name": "Christmas Island", "url": "/christmas_island" },
   { "code": "CY", "name": "Cyprus", "url": "/cyprus" },
   { "code": "CZ", "name": "Czechia", "url": "/czechia" },
@@ -118,7 +118,7 @@
   {
     "code": "GB",
     "name": "United Kingdom of Great Britain and Northern Ireland",
-    "url": "/united_kingdom_of_great_britain_and_northern_ireland"
+    "url": "/united_kingdom"
   },
   { "code": "GD", "name": "Grenada", "url": "/grenada" },
   { "code": "GE", "name": "Georgia", "url": "/georgia" },
