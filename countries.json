@@ -21,7 +21,7 @@
   { "code": "AT", "name": "Austria", "url": "/austria" },
   { "code": "AU", "name": "Australia", "url": "/australia" },
   { "code": "AW", "name": "Aruba", "url": "/aruba" },
-  { "code": "AX", "name": "Åland Islands", "url": "/åland_islands" },
+  { "code": "AX", "name": "Åland Islands", "url": "/aland_islands" },
   { "code": "AZ", "name": "Azerbaijan", "url": "/azerbaijan" },
   {
     "code": "BA",
@@ -36,13 +36,13 @@
   { "code": "BH", "name": "Bahrain", "url": "/bahrain" },
   { "code": "BI", "name": "Burundi", "url": "/burundi" },
   { "code": "BJ", "name": "Benin", "url": "/benin" },
-  { "code": "BL", "name": "Saint Barthélemy", "url": "/saint_barthélemy" },
+  { "code": "BL", "name": "Saint Barthélemy", "url": "/saint_barthelemy" },
   { "code": "BM", "name": "Bermuda", "url": "/bermuda" },
   { "code": "BN", "name": "Brunei Darussalam", "url": "/brunei_darussalam" },
   {
     "code": "BO",
     "name": "Bolivia, Plurinational State of",
-    "url": "/bolivia_plurinational_state_of"
+    "url": "/bolivia"
   },
   {
     "code": "BQ",
