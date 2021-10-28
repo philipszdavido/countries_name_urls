@@ -110,7 +110,7 @@
   {
     "code": "FM",
     "name": "Micronesia, Federated States of",
-    "url": "/micronesia_federated_states_of"
+    "url": "/micronesia"
   },
   { "code": "FO", "name": "Faroe Islands", "url": "/faroe_islands" },
   { "code": "FR", "name": "France", "url": "/france" },
@@ -165,7 +165,7 @@
   {
     "code": "IR",
     "name": "Iran, Islamic Republic of",
-    "url": "/iran_islamic_republic_of"
+    "url": "/iran"
   },
   { "code": "IS", "name": "Iceland", "url": "/iceland" },
   { "code": "IT", "name": "Italy", "url": "/italy" },
@@ -186,16 +186,16 @@
   {
     "code": "KP",
     "name": "Korea, Democratic People's Republic of",
-    "url": "/korea_democratic_people_s_republic_of"
+    "url": "/north_korea"
   },
-  { "code": "KR", "name": "Korea, Republic of", "url": "/korea_republic_of" },
+  { "code": "KR", "name": "Korea, Republic of", "url": "/south_korea" },
   { "code": "KW", "name": "Kuwait", "url": "/kuwait" },
   { "code": "KY", "name": "Cayman Islands", "url": "/cayman_islands" },
   { "code": "KZ", "name": "Kazakhstan", "url": "/kazakhstan" },
   {
     "code": "LA",
     "name": "Lao People's Democratic Republic",
-    "url": "/lao_people_s_democratic_republic"
+    "url": "/lao"
   },
   { "code": "LB", "name": "Lebanon", "url": "/lebanon" },
   { "code": "LC", "name": "Saint Lucia", "url": "/saint_lucia" },
@@ -212,7 +212,7 @@
   {
     "code": "MD",
     "name": "Moldova, Republic of",
-    "url": "/moldova_republic_of"
+    "url": "/moldova"
   },
   { "code": "ME", "name": "Montenegro", "url": "/montenegro" },
   {
@@ -269,7 +269,7 @@
   },
   { "code": "PN", "name": "Pitcairn", "url": "/pitcairn" },
   { "code": "PR", "name": "Puerto Rico", "url": "/puerto_rico" },
-  { "code": "PS", "name": "Palestine, State of", "url": "/palestine_state_of" },
+  { "code": "PS", "name": "Palestine, State of", "url": "/palestine" },
   { "code": "PT", "name": "Portugal", "url": "/portugal" },
   { "code": "PW", "name": "Palau", "url": "/palau" },
   { "code": "PY", "name": "Paraguay", "url": "/paraguay" },
@@ -317,7 +317,7 @@
   {
     "code": "SY",
     "name": "Syrian Arab Republic",
-    "url": "/syrian_arab_republic"
+    "url": "/syria"
   },
   { "code": "SZ", "name": "Eswatini", "url": "/eswatini" },
   {
@@ -349,12 +349,12 @@
   {
     "code": "TW",
     "name": "Taiwan, Province of China",
-    "url": "/taiwan_province_of_china"
+    "url": "/taiwan"
   },
   {
     "code": "TZ",
     "name": "Tanzania, United Republic of",
-    "url": "/tanzania_united_republic_of"
+    "url": "/tanzania"
   },
   { "code": "UA", "name": "Ukraine", "url": "/ukraine" },
   { "code": "UG", "name": "Uganda", "url": "/uganda" },
@@ -379,7 +379,7 @@
   {
     "code": "VE",
     "name": "Venezuela, Bolivarian Republic of",
-    "url": "/venezuela_bolivarian_republic_of"
+    "url": "/venezuela"
   },
   {
     "code": "VG",
