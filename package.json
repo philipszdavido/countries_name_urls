@@ -1,0 +1,23 @@
+{
+  "name": "countries-urls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cities.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipszdavido/countries_name_urls.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipszdavido/countries_name_urls/issues"
+  },
+  "homepage": "https://github.com/philipszdavido/countries_name_urls#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
