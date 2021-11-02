@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/philipszdavido/countries_name_urls#readme",
   "dependencies": {
-    "axios": "^0.24.0"
+    "axios": "^0.24.0",
+    "country-iso-2-to-3": "^1.1.0",
+    "country-iso-3-to-2": "^1.1.0"
   }
 }

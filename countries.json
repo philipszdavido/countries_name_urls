@@ -1,5 +1,5 @@
 [
-  { "code": "AD", "name": "Andorra", "url": "/andorra" },
+  { "code": "AD", "name": "Andorra", "url": "/andorra", "region": "europe" },
   {
     "code": "AE",
     "name": "United Arab Emirates",
